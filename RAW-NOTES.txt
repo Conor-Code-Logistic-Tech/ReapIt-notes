@@ -1,0 +1,43 @@
+Reap-it Backend Senior C# Software Engineer
+
+Recruiter: Joe Osgood - Smart Sourcer
+Salary: £80k+, small bonus
+Location: Remote offices in Southwest Birmingham, Solihul & London
+Benefits: 
+
+nodejs, C#, Cloud side they use AWS eventdrive
+sqs, sns, cloudformation or terraform
+profitable, backed by large VC silicon valley KKR
+https://en.wikipedia.org/wiki/KKR_%26_Co.
+
+Startup feel
+They looked at buying Theames Water before all the scandals came out to give example of size
+
+In Property Tech space
+C# back, React FE, low latency AWS, scalable as can have 10k users at a time (I think)
+
+They are buying up startups and integrating, at the heart of other Prop techs use as a integration platform, tech group is 100 people, fe team, be team, arch team, like entrupanuers, reapit acquoired companies and keep the staff, just understand things, cloud natice and serverless, C# API development strong with AWS. Growing rapidly, 150 people last month, about 15 tech people
+
+Interviews:
+1st with leads and seniors -21-01-2026
+2nd with architect
+
+No tech test!
+
+
+Only 20 days hol but 1 for bday, Christmas time off tho as EXTRA.
+
+Asked for AWS Services used.
+Sent over email with all AWS stuff 
+
+
+Their interview availability:
+1h with lead dev 10:30-3:00 
+Thurdasy 10, or 3 or after
+Frday any time after 3 
+
+
+No coding but technical discussion, don't say BS if don't know! 
+
+TODO: 
+Find out stuff about Reapit 
