@@ -22,6 +22,7 @@ They are buying up startups and integrating, at the heart of other Prop techs us
 
 ONLY 20 days holiday but earn one each year as well as 1 for Bday & Christmas shutdown EXTRA
 
+Edinburg & Leeds 
 ### AWS Services
 Asked for AWS Services used.
 Sent over email with all AWS stuff 20/01/2026 
@@ -36,6 +37,7 @@ scheduled 12/01/2026 10:30-11:00
 
 ### 2nd Stage
 Technical Architect
+Paul & Tan & head of arch
 
 ### Availability
 Their interview availability:
@@ -43,3 +45,5 @@ Their interview availability:
 1h with lead dev 10:30-3:00 
 Thurdasy 10, or 3 or after
 Friday any time after 3 
+
+Roughly this week will be hearing back. 
